@@ -11,7 +11,7 @@ import './styles.css'
 import Lottie from 'lottie-react'
 import typingAnimation from '../../assets/typingAnimation.json'
 import ScrollableChat from './ScrollableChat';
-const ENDPOINT = 'https://lucky-halva-d24483.netlify.app/'
+const ENDPOINT = 'https://talkative-6pbd.onrender.com'
 var socket, selectedChatCompare;
 const SingleChat = ({fetchAgain, setfetchAgain}) => {
     const {user, selectedChat, setselectedChat, notification, setnotification} = ChatState();
