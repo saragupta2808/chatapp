@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { Button } from "@chakra-ui/react";
+
 import "./App.css";
 import HomePage from "./pages/Homepage";
 import ChatPage from "./pages/ChatPage";
