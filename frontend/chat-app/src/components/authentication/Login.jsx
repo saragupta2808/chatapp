@@ -19,7 +19,7 @@ const Login = () => {
             status: 'error',
             duration: 4000,
             isClosable: true,
-            isClosable: true,
+            
           })
         return;
     }

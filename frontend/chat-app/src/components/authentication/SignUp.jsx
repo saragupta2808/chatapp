@@ -20,7 +20,7 @@ const SignUp = () => {
             status: 'error',
             duration: 4000,
             isClosable: true,
-            isClosable: true,
+            
           })
         return;
     }
@@ -29,7 +29,6 @@ const SignUp = () => {
             title: 'Passwords do not match!',
             status: 'error',
             duration: 4000,
-            isClosable: true,
             isClosable: true,
           })
         return;
@@ -63,7 +62,7 @@ const SignUp = () => {
             status: 'error',
             duration: 4000,
             isClosable: true,
-            isClosable: true,
+            
         })
         setLoading(false);
         return;
@@ -78,7 +77,7 @@ const SignUp = () => {
             status: 'warning',
             duration: 4000,
             isClosable: true,
-            isClosable: true,
+            
           })
         return;
     }
@@ -106,7 +105,7 @@ const SignUp = () => {
             status: 'warning',
             duration: 4000,
             isClosable: true,
-            isClosable: true,
+            
           })
         return;
     }
