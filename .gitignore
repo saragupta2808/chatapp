@@ -27,3 +27,4 @@ dist-ssr
 /frontend/chat-app/node_modules
 /frontend/chat-app/dist
 /backend/node_modules
+/backend/.env
